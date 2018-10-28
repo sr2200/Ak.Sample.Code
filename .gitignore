@@ -4,6 +4,6 @@
 
 /.vs
 /Ak.Sample.Core.Aspect/obj
-/Ak.Sample.Core.Aspect/bin/Debug/netstandard2.0
-/Ak.Sample.Core.Aspect.Test/bin/Debug/netcoreapp2.1
+/Ak.Sample.Core.Aspect/bin
+/Ak.Sample.Core.Aspect.Test/bin
 /Ak.Sample.Core.Aspect.Test/obj

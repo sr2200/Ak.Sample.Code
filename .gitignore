@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Ak.Sample.Code/v15
+/Ak.Sample,Core.Aspect/obj
+/Ak.Sample,Core.Aspect/bin/Debug/netstandard2.0
+/Ak.Sample,Core.Aspect.Test/bin/Debug/netcoreapp2.1
+/Ak.Sample,Core.Aspect.Test/obj

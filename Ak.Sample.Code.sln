@@ -8,9 +8,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ak.Sample.Core.Aspect", "Ak.Sample,Core.Aspect\Ak.Sample.Core.Aspect.csproj", "{3F3A053D-1905-4489-AE72-FC3546ECD830}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ak.Sample.Core.Aspect", "Ak.Sample.Core.Aspect\Ak.Sample.Core.Aspect.csproj", "{3F3A053D-1905-4489-AE72-FC3546ECD830}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ak.Sample.Core.Aspect.Test", "Ak.Sample,Core.Aspect.Test\Ak.Sample.Core.Aspect.Test.csproj", "{9239BBF3-D923-46CB-AC90-B9C5051EC6B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ak.Sample.Core.Aspect.Test", "Ak.Sample.Core.Aspect.Test\Ak.Sample.Core.Aspect.Test.csproj", "{9239BBF3-D923-46CB-AC90-B9C5051EC6B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
